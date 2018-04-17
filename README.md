@@ -1,2 +1,2 @@
 # alliance
-ia bot plugin
+plugin Re-vamp
